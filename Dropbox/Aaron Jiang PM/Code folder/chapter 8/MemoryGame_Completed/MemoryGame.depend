@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1517506651 source:c:\users\aaron.jiang\dropbox\aaron jiang pm\code folder\chapter 8\memorygame\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1518542633 source:c:\users\aaron.jiang\dropbox\aaron jiang pm\code folder\chapter 8\memorygame_inprogress\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1521503094 source:c:\users\aaron\dropbox\aaron jiang pm\code folder\chapter 8\memorygame_inprogress\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
